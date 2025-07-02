@@ -18,5 +18,5 @@ Bu proje, MVC 5 Controller with views using Entity Framework controllerını kul
 
 ![details](https://github.com/user-attachments/assets/16e4024b-329e-4a41-b8dc-657846357be6)  
 
-# Silmne
+# Silme
 ![delete2](https://github.com/user-attachments/assets/a179489b-6c3b-4a41-9dd4-27939d127c6d)  
