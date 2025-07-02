@@ -3,7 +3,7 @@
 Bu proje, MVC 5 Controller with views using Entity Framework controllerını kullanarak Create,Read,Update,Delete işlemlerinin otomatik olarak oluşturulup temel bir tasarımla sunulduğu temel bir MVC projesidir
 
 # 🔨  Kullanılan Teknolojiler
-◾ ASP.NET MVC Entity Framework   
+◾ MVC Entity Framework   
 ◾ MSSQL  
 ◾ GitHub
 
